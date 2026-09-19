@@ -24,7 +24,7 @@ HealthGPT-Personal is a multimodal, patient-conditioned LLM framework for person
 | Dataset | Access | Notes |
 |---|---|---|
 | **MIMIC-IV v2.2** | https://physionet.org/content/mimiciv/2.2/ | Requires PhysioNet credentialed access + CITI training + DUA. Restricted. |
-| **n2c2 (2014–2018)** | https://portal.dbmi.hms.harvard.edu/ | Requires Harvard DBMI DUA. Restricted. Currently listed as temporarily unavailable on the portal — check for restoration. |
+| **n2c2 (2014–2018)** | https://portal.dbmi.hms.harvard.edu/ | Requires Harvard DBMI DUA. Restricted. 
 | **MedQA (USMLE)** | https://github.com/jind11/MedQA | Public. No DUA required. |
 | **MedMCQA** | https://medmcqa.github.io/ | Public. No DUA required. |
 | **PubMedQA** | https://pubmedqa.github.io/ | Public. No DUA required. |
